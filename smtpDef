@@ -1,4 +1,7 @@
 to change in class : emailSender
 smtp  :
-Mail: slvsmtp@gmail.com
+change Md.form in row 89 from shimi.leevi@gmail.com to slvsmtp@gmail.com
+and in row 119 "password" to "zxcvbn123456"
+
+Md.form : slvsmtp@gmail.com
 adress : zxcvbn123456
