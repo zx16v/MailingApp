@@ -4,7 +4,7 @@ change Md.From in row 89 from shimi.levi@gmail.com to slvsmtp@gmail.com
 and in row 119 "password" to "zxcvbn123456"
 
 Md.form : slvsmtp@gmail.com
-adress : zxcvbn123456
+password : zxcvbn123456
 customer:
 shlomo.baron@mail.com
 admin: 
